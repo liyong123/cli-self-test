@@ -1,0 +1,1 @@
+# cli-self-test
